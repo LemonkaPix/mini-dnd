@@ -78,19 +78,19 @@ W **każdej swojej turze** gracz ma do wykorzystania:
 
 ## 2. KARTY POSTACI (POZIOM 1)
 
-Szczegółowe karty gotowe do przekazania graczom znajdują się w folderze `Rules-Cyberpunk/Classes/`:
+Szczegółowe karty gotowe do przekazania graczom znajdują się w folderze `Rules-DNDxCyberpunk/Classes/`:
 
 | Klasa | Główne cechy | Rola postaci | Styl walki i mechanika |
 | --- | --- | --- | --- |
-| [[Cyber-Berserker]] (Barbarzyńca) | SIŁ (+3), ZRĘ (+2), KON (+2) | Nieokiełznana siła i żywa tarcza drużyny | AC 14, PŻ 14; rzucanie wrogami i elementami otoczenia, ryk modulatora, adrenalina bojowa oraz awaryjne podtrzymanie życia. |
-| [[Rockerboy]] (Bard) | CHA (+3), ZRĘ (+2) | Charyzmatyczny buntownik i wspierający | AC 13, PŻ 9; Inspiracja Ulicy dla drużyny, wszechstronne kontakty oraz programy ogłuszające i stymulujące. |
-| [[Netrunner]] (Czarodziej) | INT (+3), ZRĘ (+2) | Wszechstronny haker sieciowy | AC 13, PŻ 8; krio-spowolnienie, obszarowe Przeciążenie Termiczne, kinetyczny firewall, Rój Mikro-Rakiet i Szybki Reboot slotu RAM. |
-| [[Proxy-SI]] (Czarnoksiężnik) | CHA (+3), ZRĘ (+2), KON (+2) | Kontraktor dzikiej SI zza Czarnego Muru | AC 13, PŻ 10; odrzucająca Wiązka Kwantowa z bonusem do obrażeń, 2 sloty łącza i Przepięcie Pancerza. |
-| [[Bio-Technik]] (Druid) | MĄD (+3), KON (+2) | Nomad pustkowi i specjalista od bio-wszczepów | AC 13, PŻ 10; 3 tryby Cyber-Morfingu (Wilk, Mecha-Niedźwiedź, Pająk-Infiltrator), nano-medycyna i unieruchamiająca nano-sieć. |
-| [[Medyk-Polowy\|Medyk Polowy]] (Kleryk) | MĄD (+3), SIŁ (+2), KON (+2) | Opancerzony ratownik Trauma Team | AC 16, PŻ 10; taktyczny flesz obronny, impuls EMP przeciw botom, leczenie oraz namierzający Pocisk Laserowy. |
-| [[Infiltrator]] (Łotrzyk) | ZRĘ (+3), CHA (+2) | Mistrz cienia, włamań i brudnej roboty | AC 14, PŻ 9; Atak z Ukrycia z wyborem efektu (obrażenia, podcięcie, błysk w optykę), granat dymny, neurotoksyna oraz dopalacz refleksu. |
-| [[Snajper]] (Łowca) | ZRĘ (+3), KON (+2), MĄD (+2) | Strzelec wyborowy i łowca nagród | AC 15, PŻ 12; bonus +2 do trafienia z karabinu, Namierzenie Celu, amunicja taktyczna (odpychanie, unieruchomienie), mina magnetyczna i zwinne odskoki. |
-| [[Cyber-Ninja]] (Mnich) | MĄD (+3), ZRĘ (+2), KON (+2) | Mistrz sztuk walki i dopalaczy refleksu | AC 15, PŻ 10, prędkość 40 ft; łapanie pocisków w locie, techniki walki wręcz (podcięcia, odpychanie), 2 ładunki Sandevistan i Grad Ciosów. |
-| [[Egzekutor]] (Paladyn) | SIŁ (+3), KON (+2), CHA (+2) | Zakuty w ciężki pancerz obrońca drużyny | AC 18, PŻ 12; Przeciążenie Plazmowe od 1. poziomu, Prowokacja Taktyczna, taranowanie tarczą i rezerwa nano-medyczna. |
-| [[Solo]] (Wojownik) | SIŁ (+3), KON (+2) | Wszechstronny najemnik i weteran ulic | AC 18, PŻ 12; 3 kości taktyczne odnawiane przy eliminacjach, osłona tarczą, Zastrzyk Adrenaliny i Przypływ Akcji. |
-| [[Bio-Psionik]] (Zaklinacz) | CHA (+3), ZRĘ (+2), KON (+2) | Zbiegły eksperyment korporacyjny o niestabilnej mocy | AC 15, PŻ 9; Overclocking i Punkty Przeciążenia od 1. poziomu, izolacja termiczna i wybuch rdzenia. |
+| [Cyber-Berserker](Classes/Cyber-Berserker.md) (Barbarzyńca) | SIŁ (+3), ZRĘ (+2), KON (+2) | Nieokiełznana siła i żywa tarcza drużyny | AC 14, PŻ 14; rzucanie wrogami i elementami otoczenia, ryk modulatora, adrenalina bojowa oraz awaryjne podtrzymanie życia. |
+| [Rockerboy](Classes/Rockerboy.md) (Bard) | CHA (+3), ZRĘ (+2) | Charyzmatyczny buntownik i wspierający | AC 13, PŻ 9; Inspiracja Ulicy dla drużyny, wszechstronne kontakty oraz programy ogłuszające i stymulujące. |
+| [Netrunner](Classes/Netrunner.md) (Czarodziej) | INT (+3), ZRĘ (+2) | Wszechstronny haker sieciowy | AC 13, PŻ 8; krio-spowolnienie, obszarowe Przeciążenie Termiczne, kinetyczny firewall, Rój Mikro-Rakiet i Szybki Reboot slotu RAM. |
+| [Proxy-SI](Classes/Proxy-SI.md) (Czarnoksiężnik) | CHA (+3), ZRĘ (+2), KON (+2) | Kontraktor dzikiej SI zza Czarnego Muru | AC 13, PŻ 10; odrzucająca Wiązka Kwantowa z bonusem do obrażeń, 2 sloty łącza i Przepięcie Pancerza. |
+| [Bio-Technik](Classes/Bio-Technik.md) (Druid) | MĄD (+3), KON (+2) | Nomad pustkowi i specjalista od bio-wszczepów | AC 13, PŻ 10; 3 tryby Cyber-Morfingu (Wilk, Mecha-Niedźwiedź, Pająk-Infiltrator), nano-medycyna i unieruchamiająca nano-sieć. |
+| [Medyk Polowy](Classes/Medyk-Polowy.md) (Kleryk) | MĄD (+3), SIŁ (+2), KON (+2) | Opancerzony ratownik Trauma Team | AC 16, PŻ 10; taktyczny flesz obronny, impuls EMP przeciw botom, leczenie oraz namierzający Pocisk Laserowy. |
+| [Infiltrator](Classes/Infiltrator.md) (Łotrzyk) | ZRĘ (+3), CHA (+2) | Mistrz cienia, włamań i brudnej roboty | AC 14, PŻ 9; Atak z Ukrycia z wyborem efektu (obrażenia, podcięcie, błysk w optykę), granat dymny, neurotoksyna oraz dopalacz refleksu. |
+| [Snajper](Classes/Snajper.md) (Łowca) | ZRĘ (+3), KON (+2), MĄD (+2) | Strzelec wyborowy i łowca nagród | AC 15, PŻ 12; bonus +2 do trafienia z karabinu, Namierzenie Celu, amunicja taktyczna (odpychanie, unieruchomienie), mina magnetyczna i zwinne odskoki. |
+| [Cyber-Ninja](Classes/Cyber-Ninja.md) (Mnich) | MĄD (+3), ZRĘ (+2), KON (+2) | Mistrz sztuk walki i dopalaczy refleksu | AC 15, PŻ 10, prędkość 40 ft; łapanie pocisków w locie, techniki walki wręcz (podcięcia, odpychanie), 2 ładunki Sandevistan i Grad Ciosów. |
+| [Egzekutor](Classes/Egzekutor.md) (Paladyn) | SIŁ (+3), KON (+2), CHA (+2) | Zakuty w ciężki pancerz obrońca drużyny | AC 18, PŻ 12; Przeciążenie Plazmowe od 1. poziomu, Prowokacja Taktyczna, taranowanie tarczą i rezerwa nano-medyczna. |
+| [Solo](Classes/Solo.md) (Wojownik) | SIŁ (+3), KON (+2) | Wszechstronny najemnik i weteran ulic | AC 18, PŻ 12; 3 kości taktyczne odnawiane przy eliminacjach, osłona tarczą, Zastrzyk Adrenaliny i Przypływ Akcji. |
+| [Bio-Psionik](Classes/Bio-Psionik.md) (Zaklinacz) | CHA (+3), ZRĘ (+2), KON (+2) | Zbiegły eksperyment korporacyjny o niestabilnej mocy | AC 15, PŻ 9; Overclocking i Punkty Przeciążenia od 1. poziomu, izolacja termiczna i wybuch rdzenia. |

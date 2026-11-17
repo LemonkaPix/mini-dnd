@@ -29,15 +29,15 @@ Minimalistyczny zestaw zasad, 4 karty postaci oraz kompletna mini-przygoda do po
 
 Szczegółowe karty gotowe do przekazania graczom znajdują się w folderze `Rules/Classes/`:
 
-* [[Rules/Classes/Barbarzyńca|Barbarzyńca]] – nieokiełznana siła i żywa tarcza (AC 14, PŻ 14), rzucanie wrogami i otoczeniem, wojenny ryk, szał bojowy oraz odporność na śmierć.
-* [[Rules/Classes/Bard|Bard]] – charyzmatyczny wspierający (AC 13, PŻ 9), Bardowska Inspiracja dla drużyny, wszechstronne talenty i czary uśpienia/leczenia.
-* [[Rules/Classes/Czarodziej|Czarodziej]] – wszechstronna magia akademicka (AC 13, PŻ 8), lodowe spowolnienie, obszarowa Fala Ognia, tarcza ochronna, Magiczny Pocisk i Tajemne Odzyskanie czarów.
-* [[Rules/Classes/Czarnoksiężnik|Czarnoksiężnik]] – pakt z mrocznym patronem (AC 13, PŻ 10), odrzucający Mistyczny Pocisk z bonusem do obrażeń, 2 sloty paktu i Piekielna Kara.
-* [[Rules/Classes/Druid|Druid]] – strażnik przyrody (AC 13, PŻ 10), przemiana w dzikie zwierzęta (Dziki Kształt), magia lecząca i spętanie wrogów pnączami.
-* [[Rules/Classes/Kleryk|Kleryk]] – pancerne wsparcie i boski gniew (AC 16, PŻ 10), oślepiający błysk obronny, odpędzanie nieumarłych, leczenie oraz niszczycielski Prowadzący Pocisk.
-* [[Rules/Classes/Łotrzyk|Łotrzyk]] – mistrz cienia i brudnej walki (AC 14, PŻ 9), Atak z Ukrycia z wyborem efektu (obrażenia, podcięcie, piasek w oczy), bomba dymna, trucizna oraz zwinne uniki.
-* [[Rules/Classes/Łowca|Łowca]] – strzelec wyborowy i traper (AC 15, PŻ 12), bonus +2 do trafienia z łuku, Znak Łowcy, strzały taktyczne (odpychanie, unieruchomienie), wnyki i zwinne odskoki.
-* [[Rules/Classes/Mnich|Mnich]] – mistrz sztuk walki (AC 15, PŻ 10, prędkość 40 ft), łapanie strzał w locie, techniki dłoni (podcięcia, odpychanie), 2 punkty Ki i Grad Ciosów.
-* [[Rules/Classes/Paladyn|Paladyn]] – zakuły w stal obrońca (AC 18, PŻ 12), Boskie Ugodzenie od 1. poziomu, Rycerskie Wyzwanie wrogów, taranowanie tarczą i leczenie dotykiem.
-* [[Rules/Classes/Wojownik|Wojownik]] – wszechstronny mistrz oręża i pancernik (AC 18, PŻ 12), 3 kości manewrów bojowych odnawiane przy zabójstwach, ochrona tarczą, Drugi Oddech i Przypływ Akcji.
-* [[Rules/Classes/Zaklinacz|Zaklinacz]] – wrodzona potęga magii (AC 15, PŻ 9), Metamagia i Punkty Magii od 1. poziomu, odporność na ogień i wybuch smoczego gniewu.
+* [Barbarzyńca](Classes/Barbarzy%C5%84ca.md) – nieokiełznana siła i żywa tarcza (AC 14, PŻ 14), rzucanie wrogami i otoczeniem, wojenny ryk, szał bojowy oraz odporność na śmierć.
+* [Bard](Classes/Bard.md) – charyzmatyczny wspierający (AC 13, PŻ 9), Bardowska Inspiracja dla drużyny, wszechstronne talenty i czary uśpienia/leczenia.
+* [Czarodziej](Classes/Czarodziej.md) – wszechstronna magia akademicka (AC 13, PŻ 8), lodowe spowolnienie, obszarowa Fala Ognia, tarcza ochronna, Magiczny Pocisk i Tajemne Odzyskanie czarów.
+* [Czarnoksiężnik](Classes/Czarnoksi%C4%99%C5%BCnik.md) – pakt z mrocznym patronem (AC 13, PŻ 10), odrzucający Mistyczny Pocisk z bonusem do obrażeń, 2 sloty paktu i Piekielna Kara.
+* [Druid](Classes/Druid.md) – strażnik przyrody (AC 13, PŻ 10), przemiana w dzikie zwierzęta (Dziki Kształt), magia lecząca i spętanie wrogów pnączami.
+* [Kleryk](Classes/Kleryk.md) – pancerne wsparcie i boski gniew (AC 16, PŻ 10), oślepiający błysk obronny, odpędzanie nieumarłych, leczenie oraz niszczycielski Prowadzący Pocisk.
+* [Łotrzyk](Classes/%C5%81otrzyk.md) – mistrz cienia i brudnej walki (AC 14, PŻ 9), Atak z Ukrycia z wyborem efektu (obrażenia, podcięcie, piasek w oczy), bomba dymna, trucizna oraz zwinne uniki.
+* [Łowca](Classes/%C5%81owca.md) – strzelec wyborowy i traper (AC 15, PŻ 12), bonus +2 do trafienia z łuku, Znak Łowcy, strzały taktyczne (odpychanie, unieruchomienie), wnyki i zwinne odskoki.
+* [Mnich](Classes/Mnich.md) – mistrz sztuk walki (AC 15, PŻ 10, prędkość 40 ft), łapanie strzał w locie, techniki dłoni (podcięcia, odpychanie), 2 punkty Ki i Grad Ciosów.
+* [Paladyn](Classes/Paladyn.md) – zakuły w stal obrońca (AC 18, PŻ 12), Boskie Ugodzenie od 1. poziomu, Rycerskie Wyzwanie wrogów, taranowanie tarczą i leczenie dotykiem.
+* [Wojownik](Classes/Wojownik.md) – wszechstronny mistrz oręża i pancernik (AC 18, PŻ 12), 3 kości manewrów bojowych odnawiane przy zabójstwach, ochrona tarczą, Drugi Oddech i Przypływ Akcji.
+* [Zaklinacz](Classes/Zaklinacz.md) – wrodzona potęga magii (AC 15, PŻ 9), Metamagia i Punkty Magii od 1. poziomu, odporność na ogień i wybuch smoczego gniewu.
