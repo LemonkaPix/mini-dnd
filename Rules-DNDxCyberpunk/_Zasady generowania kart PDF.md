@@ -7,8 +7,8 @@ Instrukcja dla agentów przygotowujących gotowe do druku karty postaci (Charact
 ## 1. Pliki źródłowe i nazewnictwo
 * **Źródło danych klasy:** `Rules-DNDxCyberpunk/Classes/<NazwaKlasy>.md`
 * **Kontekst mechaniki i pojęć:** `Rules-DNDxCyberpunk/Ogólne zasady DIET CYBERPUNK.md`
-* **Plik wynikowy:** `Rules-DNDxCyberpunk/Classes/<NazwaKlasy>-Karta-Postaci.pdf` (np. `Netrunner-Karta-Postaci.pdf`).
-* **Wzór referencyjny:** `Rules-DNDxCyberpunk/Classes/Netrunner-Karta-Postaci.pdf`.
+* **Plik wynikowy:** `Rules-DNDxCyberpunk/Charactershets/<NazwaKlasy>-Karta-Postaci.pdf` (np. `Netrunner-Karta-Postaci.pdf`).
+* **Wzór referencyjny:** `Rules-DNDxCyberpunk/Charactershets/Netrunner-Karta-Postaci.pdf` oraz `_Szablon-Karty-Postaci.pdf`.
 
 ---
 
@@ -22,7 +22,7 @@ Instrukcja dla agentów przygotowujących gotowe do druku karty postaci (Charact
    * Z części opisowej pozostaw **wyłącznie** białe pole na **Nazwę postaci / Pseudonim** oraz białe, puste pole na **Poziom** w nagłówku (do wpisania ołówkiem).
 3. **Przyjazność dla druku i brak zhardcodowanych statystyk:**
    * Białe tło karty (`#ffffff`) i białe pola do wpisywania ołówkiem (nazwa, poziom, cechy, PŻ, AC, inicjatywa) z wysokim kontrastem tekstu (`#111827`) oraz akcentami cyberpunkowymi (ciemny granat `#0f172a`, cyjan `#007ea7` / `#06b6d4`, magenta `#b81d65` / `#ec4899`).
-   * **Nie wpisuj na sztywno liczb** dla: 6 cech (`SIŁ`, `ZRĘ`, `KON`, `INT`, `MĄD`, `CHA`), `max PŻ`, `AC` oraz `Inicjatywy` — zostaw puste pola do uzupełnienia ołówkiem (możesz podać jedynie wzór pomocniczy pod spodem, np. `Kurtka balist.: 11 + ZRĘ`, `k20 + ZRĘ`).
+   * **Nie wpisuj na sztywno liczb** jako wartości docelowych dla: 6 cech (`SIŁ`, `ZRĘ`, `KON`, `INT`, `MĄD`, `CHA`), `max PŻ`, `AC` oraz `Inicjatywy` — zostaw puste pola do uzupełnienia ołówkiem. W prawym dolnym rogu każdego kafelka cechy umieść drobny, **wyszarzony napis ze startowym modyfikatorem** klasy (np. `start: +3`, kolor `#94a3b8`), a pod `AC` i `Inicjatywą` wzór pomocniczy (np. `Kurtka balist.: 11 + ZRĘ`, `k20 + ZRĘ`).
    * Wszelkie zasoby zużywalne podczas sesji (Sloty RAM, ładunki *Sandevistanu*, *Kości Taktyczne*, użycia *1x na sesję*) muszą mieć wyraźne **checkboxy** (`□`) do odhaczania ołówkiem.
    * Pole **PŻ** musi mieć dwie puste linie (`_____ / _____`) na bieżącą i maksymalną wartość.
 4. **Sloty RAM bez tabelki poziomów:**
@@ -42,10 +42,10 @@ Instrukcja dla agentów przygotowujących gotowe do druku karty postaci (Charact
   * Lewa strona: Nazwa klasy (duże litery), podtytuł z klasą bazową D&D (np. `KLASA BAZOWA: CZARODZIEJ • DIET CYBERPUNK`) oraz **białe, puste pole** `Poziom` do wpisania ołówkiem.
   * Prawa strona: Rozciągnięte **białe pole** `Nazwa postaci / Pseudonim` do wpisania ołówkiem.
 * **Kolumna 1 (`88mm`) — Cechy, Statystyki, Ściągawka, Ekwipunek:**
-  * Panel **Cechy (Modyfikatory)** w siatce 3×2 (`SIŁ`, `ZRĘ`, `KON`, `INT`, `MĄD`, `CHA`) z pustym miejscem na wpisanie modyfikatora. Główną cechę lub główne cechy klasy wyróżnij ramką w kolorze magenty i symbolem `★`.
+  * Panel **Cechy (Modyfikatory)** w siatce 3×2 (`SIŁ`, `ZRĘ`, `KON`, `INT`, `MĄD`, `CHA`) z pustym miejscem na wpisanie modyfikatora oraz drobnym, wyszarzonym napisem w prawym dolnym rogu kafelka wskazującym startowy modyfikator klasy (np. `start: +3`). Główną cechę lub główne cechy klasy wyróżnij ramką w kolorze magenty i symbolem `★`.
   * Panel **Statystyki bojowe**: `PŻ` (`___ / ___`), `AC` (puste pole + wzór pancerza), `Prędkość` (`ft / m / kr.`), `Inicjatywa` (puste pole + `k20 + ZRĘ`).
   * **Ściągawka tury** (skrót: Ruch + Akcja + Akcja Dodatkowa + Reakcja, lista podstawowych akcji dostępnych dla każdego jak Unik/Sprint/Wycofanie/Pomoc/Ukrycie/Rozbrojenie/Przygotowanie akcji, zasada Krytyka `20`).
-  * **Ekwipunek, Kredyty i Notatki** (`flex: 1`, linie do ręcznych zapisków).
+  * **Ekwipunek i Notatki** (`flex: 1`): wydzielone pole na **Walutę (Kredyty / €$)** u góry panelu ze wskazówką startową (`start: 2k6×100` ED) + linie do ręcznych zapisków.
 * **Kolumna 2 (`96mm`) — Zasoby klasowe, Zdolności i Akcje podstawowe:**
   * *Dla klas sieciowych/modułowych:* **Sloty Pamięci RAM** (3 wiersze z cyframi rzymskimi nad slotami) oraz **Podstawowe Skrypty / Mikromoduły**.
   * *Dla klas bojowych:* **Ataki (Broń)** + tracker **Zasobów klasowych** (checkboxy dla ładunków, kości taktycznych, punktów przeciążenia, szału itp.).
